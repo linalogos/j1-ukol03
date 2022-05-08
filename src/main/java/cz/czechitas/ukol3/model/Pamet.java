@@ -15,5 +15,4 @@ public class Pamet {
     public String toString() {
         return "Pamet: " + kapacita;
     }
-
 }

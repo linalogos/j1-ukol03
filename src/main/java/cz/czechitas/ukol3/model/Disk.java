@@ -24,8 +24,4 @@ public class Disk {
     public String toString() {
         return "Disk: kapacita: " + kapacita + ", vyuzite misto na disku: " + vyuziteMisto;
     }
-
-
-
-
 }
